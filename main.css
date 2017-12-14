@@ -1,8 +1,7 @@
 body {
-	background: #999;
+	background: #fff;
 	font-family: arial;
-	margin: 0;
-
+	margin: 5%;
 }
 
 h1, h2 {
@@ -27,23 +26,7 @@ header h1 {
 margin: 10%;
 display: inline;
 }
-nav ul {
-	margin: 0;
-	padding: 0 0 0 15px;
-	display: inline;
-}
-nav ul li {
-	list-style-type: none;
-	display: inline-block;
-	background-color: black;
-	color: white;
-	padding: 5px 15px;
 
-}
-
-nav ul li a {
-	color: white;
-}
 
 .row {
 	clear: both;
@@ -55,5 +38,6 @@ nav ul li a {
 }
 
 footer {
-	clear: both;
+	clear: all;
+	float: left;
 }
