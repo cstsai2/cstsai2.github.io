@@ -10,7 +10,7 @@ h1, h2 {
 }
 
 a {
-	color: blue;
+	color: black;
 }
 
 p {
@@ -21,10 +21,10 @@ p {
 header {
 	background-color: #999;
 	color: white;
-	padding: 10px 15px 0px 15px;
+	padding: 10%;
 }
 header h1 {
-margin: 0;
+margin: 10%;
 display: inline;
 }
 nav ul {
