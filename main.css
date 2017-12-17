@@ -23,7 +23,7 @@ a {
 header {
 	background-color: #5F9EA0;
 	color: white;
-	padding: 5%;
+	padding: 2%;
 }
 
 .row {
@@ -37,5 +37,5 @@ header {
 
 footer {
 	clear: all;
-	float: left;
+	float: right;
 }
