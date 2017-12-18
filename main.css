@@ -27,7 +27,7 @@ header {
 }
 
 div {
-	position: fixed;
+	position: relative;
 	text-align: center;
 	width: 95%;
 }
