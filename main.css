@@ -26,21 +26,6 @@ header {
 	padding: 2%;
 }
 
-div {
-	position: relative;
-	text-align: center;
-	width: 95%;
-}
-
-.row {
-	clear: both;
-}
-.col {
-	float: left;
-	width: 31%
-	margin: 1%;
-}
-
 footer div{
 	position: fixed;
 	text-align: center;
