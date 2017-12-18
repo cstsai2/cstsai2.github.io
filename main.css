@@ -26,6 +26,11 @@ header {
 	padding: 2%;
 }
 
+div {
+	position: fixed;
+	text-align: center;
+}
+
 .row {
 	clear: both;
 }
@@ -41,3 +46,4 @@ footer div{
 	bottom: 0%;
 	width: 95%;
 }
+
