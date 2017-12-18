@@ -29,6 +29,7 @@ header {
 div {
 	position: fixed;
 	text-align: center;
+	width: 95%;
 }
 
 .row {
